@@ -26,6 +26,7 @@ def generate_latex(file_name, top_sentences, entities, source_url):
 
     latex += "\\begin{abstract}\n"
     for s, score in top_sentences.items():
+        print(s)
         latex += f"{escape_latex(s)} (Score: {score:.4f})\n\n"
     latex += "\\end{abstract}\n\n"
 
