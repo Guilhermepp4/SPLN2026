@@ -20,7 +20,7 @@ EVAL_SET = [
     {"question": "Em que cidade fica situado o estádio de Anfield?", "expected": "Liverpool"},
     {"question": "Qual é a alcunha do Borussia Dortmund?", "expected": "Schwarzgelben"},
     {"question": "Em que dia nasceu Erling Haaland?", "expected": "21 de julho"},
-    {"question": "Qual é o maior Clube de Portugal", "expected": "Benfica"},
+    {"question": "Em que ano foi fundado o Benfica?", "expected": "1904"},
     {"question": "Que oficial de vídeo é utilizado em competições de futebol?", "expected": "árbitro assistente de vídeo"}
 ]
 

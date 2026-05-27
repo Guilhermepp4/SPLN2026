@@ -1,2 +1,5 @@
 docs/*
 models/*
+
+cache_sbert.pt
+cache_tfidf.pkl
