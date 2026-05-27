@@ -1,8 +1,6 @@
 import json
 import wikipediaapi
 
-# 1. Configurar a API da Wikipédia (Língua: Português)
-# O user_agent é obrigatório para a Wikipédia saber quem está a aceder
 wiki = wikipediaapi.Wikipedia(
     user_agent='MeuProjetoEscolarRAG/1.0 (meuemail@escola.com)',
     language='pt'
